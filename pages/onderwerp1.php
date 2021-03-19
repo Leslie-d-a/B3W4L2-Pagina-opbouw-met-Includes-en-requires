@@ -1,3 +1,3 @@
-<?php
-?>
-<!-- jouw HTML met de inhoud over onderwerp 1 komt hier... -->
+<h1>Dragon</h1>
+<img src="images/dragon1.jpg" alt="">
+<p>De eerste generatie Dragons werd ontwikkeld onder NASA's Commercial Orbital Transportation Services-programma ten behoeve van het Commercial Resupply Services-programma. Dit onbemande type ruimtevaartuig werd tussen 2010[1] en 2020 gebruikt voor twee testvluchten en twintig Commercial Resupply Services-missies naar het ISS. Een vlucht mislukte door een falende draagraket. Aanmeren gebeurde met behulp van een Canada-arm een grote robot-arm van het ISS die de dragon opving en aan de juiste poort koppelde. Op de achterbak zaten uitklapbare zonnepanelen die de capsule van stroom voorzagen. Een aantal van de dertien gebouwde Dragons werd tot drie maal toe ingezet. De missies duurden ongeveer maand. Lanceringen gebeurden met een Falcon 9-raket. Een Dragon was in staat 6000 kg vracht naar het ISS te vervoeren. Terug was dat maximaal 3500 kg.</p>

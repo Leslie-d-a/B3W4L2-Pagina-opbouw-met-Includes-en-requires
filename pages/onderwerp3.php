@@ -1,3 +1,7 @@
-<?php
-?>
-<!-- jouw HTML met de inhoud over onderwerp 3 komt hier... -->
+<h1>Dragon XL</h1>
+<img src="images/dragon XL.jpg" alt="">
+<p>De Dragon XL werd op 27 maart 2020 aangekondigd in het kader van NASA’s Artemisprogramma[4] en zal vanaf 2024 de Lunar Gateway bevoorraden. Deze is groter dan eerdere Dragons en kan meer dan 5 ton aan vracht vervoeren naar het ruimtestation dat tegen die tijd in een baan om de Maan zal vliegen. Hoewel weinig details bekend zijn is aan de hand van een door NASA gebruikte illustratie te concluderen dat deze ook van een IDA-poort is voorzien.
+
+Anders dan andere Dragons is deze uitvoering niet conisch maar cilindrisch van vorm wat erop duidt dat de Dragon XL niet is bedoeld om een terugkeer in de atmosfeer te doorstaan. Ook het feit dat de Draco-stuurmotoren uit de buitenkant steken duidt daarop. Het ruimteschip wordt in staat geacht een jaar aangekoppeld te blijven.
+
+Om bij de Lunar Gateway te komen wordt een Falcon Heavy ingezet. De drukcabine is bij deze variant tijdens de lancering richting de upperstage van de raket gericht en de kofferbak naar voren en wordt ingesloten in een neuskegel die na het bereiken van de ruimte wordt afgeworpen. Het is anno 2020 nog niet bekend in welke mate de Falcon Heavy bij deze lanceringen herbruikbaar zal zijn.</p>

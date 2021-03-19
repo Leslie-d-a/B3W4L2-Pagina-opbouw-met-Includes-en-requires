@@ -1,11 +1,10 @@
 <header>
-    <img src="" alt="">
+    <img src="images/header.jpg" alt="">
     <nav>
         <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">Lorem</a></li>
-            <li><a href="#">Over Ons</a></li>
-            <li><a href="#">Contact</a></li>
+            <li><a href="index.php?pageContent=pages/onderwerp1.php">Dragon 1</a></li>
+            <li><a href="index.php?pageContent=pages/onderwerp2.php">Dragon 2</a></li>
+            <li><a href="index.php?pageContent=pages/onderwerp3.php">Dragon XL</a></li>
         </ul>
     </nav>
 </header>

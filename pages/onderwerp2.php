@@ -1,3 +1,3 @@
-<?php
-?>
-<!-- jouw HTML met de inhoud over onderwerp 2 komt hier... -->
+<h1>Dragon 2</h1>
+<img src="images/dragon2.jpg" alt="">
+<p>Dragon 2 is de tweede generatie Dragon-ruimtevaartuigen. Door verbeterde navigatie en een ander type koppelpoort kan deze generatie volautomatisch aanmeren bij het ISS of toekomstige ruimtestations met en International Docking Adapter (IDA). Net als de Dragon 1 zijn de Dragon 2 herbruikbaar. Op de niet herbruikbare achterbak zitten vaste zonnepanelen en een koelingsradiator. Dragon 2’s worden met een Falcon 9-block 5 gelanceerd waarvan de eerste trap normaliter zal landen.</p>
